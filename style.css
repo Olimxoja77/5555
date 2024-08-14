@@ -1,0 +1,73 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-between;
+    background-color: black;
+    height: 100px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    height: 50px;
+}
+
+.w{
+    width: 70px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(9, 9, 9);
+    align-items: center;
+}
+  
+a:hover{
+    color: white;
+}
+.a{
+    background-color: yellow;
+    color: gray;
+    width: 100px;
+    height: 50px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+body{
+    background-image: url('https://media.pocketgamer.biz/images/125321/83329/pubg_l1200.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1600px;
+
+}
+.z{
+    background-color:black ;
+    color: white;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+.v{
+    background-color: yellow;
+    color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+main{
+    padding-left: 600px;
+    padding-top: 300px;
+    justify-content: space-around;
+}
+h1{
+width: 700px;
+background-color: yellow;
+text-align: center;
+}
